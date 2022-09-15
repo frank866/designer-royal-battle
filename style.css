@@ -1,0 +1,38 @@
+.mydiv{
+    font-family: sans-serif;
+    text-align: center;
+    width: 280px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 5px 5px 5px 5px rgb(243, 241, 241);
+    margin: auto;
+}
+img{
+    height: 50px;
+    width: 60px;
+    padding: 15px 0px 15px 0px;
+}
+.mydi{
+    background-color: red;
+    padding-bottom: ;
+    
+}
+.myp{
+    padding: 0px 40px;
+    position: relative;
+    top: -10px;
+    color: rgb(68, 67, 67);
+    
+}
+button{
+    background-color: red;
+    border: red;
+    width: 70px;
+    height: 20px;
+    border-radius: 10px;
+    color: white;
+    position: relative;
+    top: -10px;
+    margin: 5px 0px 10px;
+    font-size: x-small;
+}
