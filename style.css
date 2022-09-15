@@ -6,6 +6,7 @@
     overflow: hidden;
     box-shadow: 5px 5px 5px 5px rgb(243, 241, 241);
     margin: auto;
+    margin-top: 200px;
 }
 img{
     height: 50px;
@@ -14,8 +15,6 @@ img{
 }
 .mydi{
     background-color: red;
-    padding-bottom: ;
-    
 }
 .myp{
     padding: 0px 40px;
